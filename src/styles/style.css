@@ -1,0 +1,40 @@
+
+.container{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-image: url('../Imagens/background.png');
+    background-size: cover;
+}
+h1{
+    color: #ffffff;
+    text-align: center;
+    margin-bottom: 4px;
+
+}
+
+input{
+    margin: 10px 30%;
+    height: 30px;
+    width: 40%;
+}
+
+.Herrah{
+    margin: 10px 45%;
+    position: relative;
+    align-content: center;
+}
+
+#resultado{
+    color: #ffffff;
+    text-align: center;
+    margin-top: 14px;
+    font-size: 24px;
+    margin-bottom: 24px;
+    text-shadow: 3px 2px  #000000 ;
+}
+
+button{
+    padding: 7px 8px; 
+    margin: auto;
+}
